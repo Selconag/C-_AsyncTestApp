@@ -10,5 +10,4 @@ Or here is the references I used for now:
 
 
 [![Made with C#](https://img.shields.io/badge/Made%20With%20CSharp-00b911.svg?style=plastic&logo=csharp)](https://microsoft.com)
-[![Made with MQTT#](https://img.shields.io/badge/Made%20With%20MQTT-5C2DF1.svg?style=plastic&logo=mqtt)](https://mqtt.org)
 
